@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the associated paper."
+title: "Hybrid Transformer-DNN for Mass-Spectrum Fingerprint Prediction"
+authors:
+  - family-names: "Your family name"
+    given-names: "Your given name"
+year: 2026
+version: 1.0.0
+repository-code: "https://github.com/USERNAME/REPOSITORY"

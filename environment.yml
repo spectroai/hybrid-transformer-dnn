@@ -1,0 +1,14 @@
+name: hybrid-transformer-dnn
+channels:
+  - pytorch
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - numpy
+  - pandas
+  - scikit-learn
+  - pytorch
+  - jupyter
+  - rdkit
+  - pip

@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Environments
+.venv/
+venv/
+env/
+.env
+
+# Data and generated artifacts
+data/*.csv
+data/*.tsv
+data/*.xlsx
+checkpoints/
+results/*.csv
+results/*.tsv
+results/*.xlsx
+results/*.png
+results/*.pdf
+
+# Model weights
+*.pt
+*.pth
+!best_model_complete.pth
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
